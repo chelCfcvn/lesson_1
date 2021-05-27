@@ -1,3 +1,3 @@
-var a = '15' - 5;
+var fullName = 'Tuyen'
 
-console.log(a);
+console.log(typeof fullName)
